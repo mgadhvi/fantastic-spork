@@ -1,2 +1,2 @@
 # fantastic-spork
-Manish is fantastic at git
+Manish is fantastic at git and Sam is sometimes
