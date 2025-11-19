@@ -1,2 +1,2 @@
 # fantastic-spork
-This is an example of a merge conflict
+Manish is fantastic at git
