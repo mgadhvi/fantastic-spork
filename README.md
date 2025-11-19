@@ -1,0 +1,2 @@
+# fantastic-spork
+This is an example of a merge conflict
