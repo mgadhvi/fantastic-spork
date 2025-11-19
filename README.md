@@ -1,2 +1,2 @@
 # fantastic-spork
-Manish is fantastic at git and Sam is sometimes
+Leanne loves to code!
